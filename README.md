@@ -9,7 +9,7 @@ In this page you find the code associated with my published papers.
 
 :email: :mailbox:
 You can find more information about me on my [personal website](https://diegosantoro.github.io).
-You can also reach me at diego.santoro@phd.unipd.it, or you can find me on [LinkedIn](https://www.linkedin.com/in/diego-santoro-7599a8206/), or [Twitter](https://twitter.com/santoro_die).
+You can also reach me at diego.santoro@phd.unipd.it, or you can find me on [LinkedIn](https://www.linkedin.com/in/diegosantoro/), or [Twitter](https://twitter.com/santoro_die).
 
 <!--
 **diegosantoro/diegosantoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
